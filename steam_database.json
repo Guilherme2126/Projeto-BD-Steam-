@@ -1,0 +1,17 @@
+{
+    "usuarios": [
+        {
+            "nome": "henrique",
+            "email": "henrique@gmail.com",
+            "horas_jogadas": 0,
+            "biblioteca": []
+        }
+    ],
+    "jogos_catalogo": [
+        {
+            "titulo": "gta6",
+            "genero": "açao",
+            "horas_registradas": 0
+        }
+    ]
+}
